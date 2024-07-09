@@ -17,6 +17,6 @@ Open [http://localhost:3000](http://localhost:3000) with your browser to see the
 
 This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
 
-## Deploy on Vercel
+## Deployed on Vercel
 
 You can see the result of this app at [Vercel](https://todolist-git-main-hermann2710s-projects.vercel.app/)
